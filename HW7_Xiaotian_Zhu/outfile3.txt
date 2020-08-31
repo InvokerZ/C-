@@ -1,0 +1,5 @@
+prod is 13.2 27.8 25.5 
+       -4.8 -14 -4.6 
+       
+the boolean result of m1*m2 is0
+the boolean result of m2*m1 is1

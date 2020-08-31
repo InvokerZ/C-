@@ -1,0 +1,5 @@
+Distance from (3,4) to (1,2) is 2.82843
+Distance from (5,6) to (1,2) is 5.65685
+Distance from (7,8) to (1,2) is 8.48528
+Distance from (9,10) to (1,2) is 11.3137
+Distance from (11,12) to (1,2) is 14.1421

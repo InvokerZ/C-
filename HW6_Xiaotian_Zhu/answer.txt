@@ -1,0 +1,5 @@
+the max number is in row 6672 ,which is 300.622 and the max's date is 7/26/2019
+the min number is in row 15 ,which is 26.2625 and the min's date is 2/18/1993
+the annualized averaged return is 0.111758 and the annualized averaged return volatility is 0.0114621
+the max trading volume day is in row3957 ,which is 8.71026e+08 and the max's date is 10/10/2008
+the min trading volume day is in row 424 ,which is 5200 and the min's date is 9/30/1994
