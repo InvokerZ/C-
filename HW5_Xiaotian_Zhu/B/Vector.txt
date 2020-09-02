@@ -1,0 +1,14 @@
+sum of row1 is7.14042
+sum of row2 is7.73382
+sum of row3 is8.52903
+sum of row4 is6.80971
+The length of row 1 is 4.10295
+The length of row 2 is 4.77056
+The length of row 3 is 4.3216
+The length of row 4 is 3.71011
+The angle and dot product of arr1 and arr2  is 56.0586 and 10.9292
+The angle and dot product of arr1 and arr3  is 29.8194 and 15.3838
+The angle and dot product of arr1 and arr4  is 36.7152 and 12.2027
+The angle and dot product of arr2 and arr3  is 44.4481 and 14.7181
+The angle and dot product of arr2 and arr4  is 40.2764 and 13.5036
+The angle and dot product of arr3 and arr4  is 26.9318 and 14.2948
